@@ -1,4 +1,4 @@
-FROM dpage/pgadmin4
+FROM portainer/portainer
 
-EXPOSE 80
+
 
